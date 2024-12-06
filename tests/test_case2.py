@@ -11,9 +11,9 @@ from pageObjects.ContactPage import ContactPage
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
-
+@pytest.mark.parametrize("run", range(1,6))
 class TestTwo(BaseClass):
-    def test_case2(self):
+    def test_case2(self, run):
         log = self.getLogger()
         homePage = HomePage(self.driver)
         contactPage = homePage.user_contact()
@@ -30,14 +30,14 @@ class TestTwo(BaseClass):
         feedbackSubmit = contactPage.feedback_confirmation_msg().text
 
         assert feedbackSubmit == "Thanks parveen, we appreciate your feedback."
-
         log.info("Validated successful submission message")
+        self.driver.refresh()
 
 
 
 
 ################################################################################################################
-#*******                ROUGH WORK                      *******************
+#*************                ROUGH WORK                      *******************
 
         # self.driver.find_element(By.LINK_TEXT,"Contact").click()
         # self.driver.find_element(By.ID,"forename").send_keys("parveen")
