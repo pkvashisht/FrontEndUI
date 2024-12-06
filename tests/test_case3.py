@@ -1,4 +1,5 @@
 import time
+import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -9,16 +10,17 @@ from pageObjects.CartCheckoutPage import CartCheckoutPage
 from pageObjects.ShopPage import ShopPage
 from utilities.BaseClass import BaseClass
 
-
+@pytest.mark.parametrize("run", range(5))
 class TestThree(BaseClass):
-    def test_case3(self):
+    def test_case3(self, run):
         log = self.getLogger()
         shopPage = ShopPage(self.driver)
         #self.driver.find_element(By.LINK_TEXT,"Shop").click()
+        #log.info(f"Running test iteration {run + 1}: Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!")
+
         shopPage.shopItems().click()
         #add_stuffedFrogs = self.driver.find_element(By.XPATH,"//li[@id='product-2']/div/p/a")
         log.info("Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!")
-
         add_stuffedFrogs = shopPage.add_frogIntoCart()
         for i in range(2):
             add_stuffedFrogs.click()
@@ -70,4 +72,5 @@ class TestThree(BaseClass):
         assert expected_total == float(total_price)
 
         log.info(f"Verified that total: {total_price} = sum(sub totals):{expected_total}")
+        self.driver.refresh()
 
