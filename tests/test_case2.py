@@ -2,11 +2,9 @@ import pytest
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
-
-from TestData.ContactPageData import ContactPageData
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
-import TestData
+
 
 @pytest.mark.parametrize("run", range(1,6))
 class TestTwo(BaseClass):
