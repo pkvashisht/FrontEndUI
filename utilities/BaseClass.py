@@ -13,6 +13,6 @@ class BaseClass:
         fileHandler.setFormatter(formatter)
         if logger.hasHandlers():
             logger.handlers.clear()
-        logger.addHandler(fileHandler)  # filehandler object
+        logger.addHandler(fileHandler)
         logger.setLevel(logging.DEBUG)
         return logger
