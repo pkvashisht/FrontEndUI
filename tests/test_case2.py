@@ -5,8 +5,7 @@ from selenium.webdriver.support.wait import WebDriverWait
 from pageObjects.HomePage import HomePage
 from utilities.BaseClass import BaseClass
 
-
-@pytest.mark.parametrize("run", range(1,6))
+@pytest.mark.parametrize("run", range(5))
 class TestTwo(BaseClass):
     def test_case2(self, run):
         log = self.getLogger()
