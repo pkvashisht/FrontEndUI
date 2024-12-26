@@ -1,58 +1,199 @@
-2024-12-06 16:50:33,324 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
-2024-12-06 16:55:23,607 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
-2024-12-06 16:55:25,637 :INFO : test_case3 :Stuffed Frog price is: 10.99, Subtotal for Frog is: 21.98
-2024-12-06 16:55:25,713 :INFO : test_case3 :Fluffy Bunny price is: 9.99, Subtotal for Bunny is: 49.95
-2024-12-06 16:55:25,787 :INFO : test_case3 :Valentine Bear price is: 9.99, Subtotal for Bear is: 49.95
-2024-12-06 16:55:25,817 :INFO : test_case3 :Verified total = sum(subtotals)
-2024-12-06 16:58:29,583 :INFO : test_case1 :Verify error messages
-2024-12-06 16:58:29,632 :INFO : test_case1 :Forename is required
-2024-12-06 16:58:29,662 :INFO : test_case1 :Email is required
-2024-12-06 16:58:29,689 :INFO : test_case1 :Message is required
-2024-12-06 16:58:29,689 :INFO : test_case1 :Populating mandatory fields
-2024-12-06 16:58:32,215 :INFO : test_case1 :Validated error has gone and Feedback submitted successfully!
-2024-12-06 16:58:36,744 :INFO : test_case2 :Populating mandatory fields
-2024-12-06 16:58:40,336 :INFO : test_case2 :Validated successful submission message
-2024-12-06 16:58:44,403 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
-2024-12-06 16:58:46,423 :INFO : test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
-2024-12-06 16:58:46,512 :INFO : test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
-2024-12-06 16:58:46,574 :INFO : test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
-2024-12-06 16:58:46,611 :INFO : test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
-2024-12-06 17:11:52,459 :INFO : test_case1 :Verify error messages
-2024-12-06 17:11:52,603 :INFO : test_case1 :Forename is required
-2024-12-06 17:11:52,631 :INFO : test_case1 :Email is required
-2024-12-06 17:11:52,661 :INFO : test_case1 :Message is required
-2024-12-06 17:11:52,662 :INFO : test_case1 :Populating mandatory fields
-2024-12-06 17:12:03,824 :INFO : test_case1 :Validated error has gone and Feedback submitted successfully!
-2024-12-06 17:12:09,433 :INFO : test_case2 :Populating mandatory fields
-2024-12-06 17:12:16,173 :INFO : test_case2 :Validated successful submission message
-2024-12-06 17:12:20,425 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
-2024-12-06 17:12:22,397 :INFO : test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
-2024-12-06 17:12:22,476 :INFO : test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
-2024-12-06 17:12:22,538 :INFO : test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
-2024-12-06 17:12:22,568 :INFO : test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
-2024-12-06 17:16:27,710 :INFO : test_case1 :Verify error messages
-2024-12-06 17:16:27,760 :INFO : test_case1 :Forename is required
-2024-12-06 17:16:27,791 :INFO : test_case1 :Email is required
-2024-12-06 17:16:27,828 :INFO : test_case1 :Message is required
-2024-12-06 17:16:27,828 :INFO : test_case1 :Populating mandatory fields
-2024-12-06 17:16:31,537 :INFO : test_case1 :Validated error has gone and Feedback submitted successfully!
-2024-12-06 17:16:36,196 :INFO : test_case2 :Populating mandatory fields
-2024-12-06 17:16:41,616 :INFO : test_case2 :Validated successful submission message
-2024-12-06 17:16:45,996 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
-2024-12-06 17:16:51,064 :INFO : test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
-2024-12-06 17:16:51,174 :INFO : test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
-2024-12-06 17:16:51,258 :INFO : test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
-2024-12-06 17:16:51,305 :INFO : test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
-2024-12-06 17:34:06,798 :INFO : test_case1 :Verify error messages
-2024-12-06 17:34:06,854 :INFO : test_case1 :Forename is required
-2024-12-06 17:34:06,887 :INFO : test_case1 :Email is required
-2024-12-06 17:34:06,918 :INFO : test_case1 :Message is required
-2024-12-06 17:34:06,919 :INFO : test_case1 :Populating mandatory fields
-2024-12-06 17:34:11,111 :INFO : test_case1 :Validated error has gone and Feedback submitted successfully!
-2024-12-06 17:34:15,730 :INFO : test_case2 :Populating mandatory fields
-2024-12-06 17:34:19,527 :INFO : test_case2 :Validated successful submission message
-2024-12-06 17:34:24,202 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
-2024-12-06 17:34:26,062 :INFO : test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
-2024-12-06 17:34:26,139 :INFO : test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
-2024-12-06 17:34:26,203 :INFO : test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
-2024-12-06 17:34:26,228 :INFO : test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:17:11,141 :INFO : test_case1 :Verify error messages
+2024-12-26 12:17:11,181 :INFO : test_case1 :Forename is required
+2024-12-26 12:17:11,200 :INFO : test_case1 :Email is required
+2024-12-26 12:17:11,236 :INFO : test_case1 :Message is required
+2024-12-26 12:17:11,237 :INFO : test_case1 :Populating mandatory fields
+2024-12-26 12:17:12,910 :INFO : test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:19:33,418 :INFO : test_case2 :Populating mandatory fields
+2024-12-26 12:19:46,411 :INFO : test_case2 :Validated successful submission message
+2024-12-26 12:19:46,780 :INFO : test_case2 :Populating mandatory fields
+2024-12-26 12:19:51,807 :INFO : test_case2 :Validated successful submission message
+2024-12-26 12:19:52,144 :INFO : test_case2 :Populating mandatory fields
+2024-12-26 12:19:54,138 :INFO : test_case2 :Validated successful submission message
+2024-12-26 12:19:54,529 :INFO : test_case2 :Populating mandatory fields
+2024-12-26 12:20:12,370 :INFO : test_case2 :Validated successful submission message
+2024-12-26 12:20:12,869 :INFO : test_case2 :Populating mandatory fields
+2024-12-26 12:20:16,544 :INFO : test_case2 :Validated successful submission message
+2024-12-26 12:22:56,032 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:22:57,957 :INFO : test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:22:58,002 :INFO : test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:22:58,036 :INFO : test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:22:58,057 :INFO : test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:27:40,039 :INFO : test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:27:41,366 :INFO : test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:27:41,415 :INFO : test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:27:41,455 :INFO : test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:27:41,480 :INFO : test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:33:00,607 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:33:03,092 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:33:03,198 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:33:03,317 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:33:03,362 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:36:46,332 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:36:48,055 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:36:48,117 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:36:48,166 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:36:48,192 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:43:39,773 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:43:41,240 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:43:41,299 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:43:41,355 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:43:41,380 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:46:08,095 :INFO :test_case1 :Verify error messages
+2024-12-26 12:46:08,131 :INFO :test_case1 :Forename is required
+2024-12-26 12:46:08,156 :INFO :test_case1 :Email is required
+2024-12-26 12:46:08,192 :INFO :test_case1 :Message is required
+2024-12-26 12:46:08,194 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 12:46:11,292 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:46:14,610 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:46:18,959 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:46:19,326 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:46:25,556 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:46:25,913 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:46:29,641 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:46:29,990 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:46:32,703 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:46:33,109 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:46:35,506 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:46:39,053 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:46:40,577 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:46:40,650 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:46:40,710 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:46:40,736 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:47:04,524 :INFO :test_case1 :Verify error messages
+2024-12-26 12:47:04,576 :INFO :test_case1 :Forename is required
+2024-12-26 12:47:04,658 :INFO :test_case1 :Email is required
+2024-12-26 12:47:04,706 :INFO :test_case1 :Message is required
+2024-12-26 12:47:04,706 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 12:47:06,489 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:47:09,892 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:47:17,856 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:47:18,246 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:47:22,896 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:47:23,316 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:47:38,333 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:47:38,711 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:47:57,647 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:47:58,106 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:48:00,846 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:48:04,426 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:48:06,048 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:48:06,116 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:48:06,172 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:48:06,196 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:48:49,051 :INFO :test_case1 :Verify error messages
+2024-12-26 12:48:49,086 :INFO :test_case1 :Forename is required
+2024-12-26 12:48:49,109 :INFO :test_case1 :Email is required
+2024-12-26 12:48:49,177 :INFO :test_case1 :Message is required
+2024-12-26 12:48:49,177 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 12:48:56,358 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:48:59,921 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:49:04,389 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:49:04,853 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:49:15,039 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:49:15,559 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:49:41,020 :INFO :test_case1 :Verify error messages
+2024-12-26 12:49:41,052 :INFO :test_case1 :Forename is required
+2024-12-26 12:49:41,067 :INFO :test_case1 :Email is required
+2024-12-26 12:49:41,103 :INFO :test_case1 :Message is required
+2024-12-26 12:49:41,112 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 12:49:43,805 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:49:46,971 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:49:48,815 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:49:49,185 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:49:51,061 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:49:51,449 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:50:07,210 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:50:07,865 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:50:13,589 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:50:13,996 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:50:16,217 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:50:20,141 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:50:21,884 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:50:21,963 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:50:22,025 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:50:22,051 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:50:30,397 :INFO :test_case1 :Verify error messages
+2024-12-26 12:50:30,420 :INFO :test_case1 :Forename is required
+2024-12-26 12:50:30,453 :INFO :test_case1 :Email is required
+2024-12-26 12:50:30,488 :INFO :test_case1 :Message is required
+2024-12-26 12:50:30,488 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 12:50:35,791 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:50:39,059 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:50:41,255 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:50:41,655 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:50:55,036 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:50:55,450 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:50:58,495 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:50:58,925 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:51:09,610 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:51:10,151 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:51:15,513 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:51:18,956 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:51:21,041 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:51:21,118 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:51:21,179 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:51:21,209 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:55:57,394 :INFO :test_case1 :Verify error messages
+2024-12-26 12:55:57,491 :INFO :test_case1 :Forename is required
+2024-12-26 12:55:57,530 :INFO :test_case1 :Email is required
+2024-12-26 12:55:57,563 :INFO :test_case1 :Message is required
+2024-12-26 12:55:57,563 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 12:56:00,864 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:56:08,313 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:56:10,459 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:56:10,864 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:56:14,277 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:56:14,651 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:56:16,239 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:56:16,653 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:56:18,257 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:56:18,658 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:56:20,274 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:56:27,738 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:56:29,600 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:56:29,673 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:56:29,734 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:56:29,767 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 12:56:48,795 :INFO :test_case1 :Verify error messages
+2024-12-26 12:56:48,842 :INFO :test_case1 :Forename is required
+2024-12-26 12:56:48,934 :INFO :test_case1 :Email is required
+2024-12-26 12:56:48,968 :INFO :test_case1 :Message is required
+2024-12-26 12:56:48,969 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 12:56:55,528 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 12:57:03,133 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:57:05,808 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:57:06,227 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:57:21,528 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:57:22,180 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:57:25,720 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:57:26,360 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:57:32,704 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:57:33,070 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 12:57:37,567 :INFO :test_case2 :Validated successful submission message
+2024-12-26 12:57:45,437 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 12:57:47,254 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 12:57:47,385 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:57:47,463 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 12:57:47,523 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2024-12-26 13:11:10,628 :INFO :test_case1 :Verify error messages
+2024-12-26 13:11:10,658 :INFO :test_case1 :Forename is required
+2024-12-26 13:11:10,680 :INFO :test_case1 :Email is required
+2024-12-26 13:11:10,701 :INFO :test_case1 :Message is required
+2024-12-26 13:11:10,701 :INFO :test_case1 :Populating mandatory fields
+2024-12-26 13:11:15,416 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!
+2024-12-26 13:11:18,547 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 13:11:21,826 :INFO :test_case2 :Validated successful submission message
+2024-12-26 13:11:22,101 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 13:11:23,799 :INFO :test_case2 :Validated successful submission message
+2024-12-26 13:11:24,066 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 13:11:26,883 :INFO :test_case2 :Validated successful submission message
+2024-12-26 13:11:27,216 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 13:11:31,433 :INFO :test_case2 :Validated successful submission message
+2024-12-26 13:11:31,749 :INFO :test_case2 :Populating mandatory fields
+2024-12-26 13:11:45,013 :INFO :test_case2 :Validated successful submission message
+2024-12-26 13:11:48,243 :INFO :test_case3 :Customer adding 2 Stuffed Frog, 5 Fluffy Bunny, 3 Valentine Bear to the cart!
+2024-12-26 13:11:49,495 :INFO :test_case3 :Stuffed Frog price is: 10.99, Subtotal is: 21.98
+2024-12-26 13:11:49,534 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
+2024-12-26 13:11:49,568 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
+2024-12-26 13:11:49,590 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9

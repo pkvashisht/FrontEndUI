@@ -13,13 +13,12 @@ def setup(request):
     global driver
     browser_name = request.config.getoption("browser_name")
     if browser_name == "chrome":
-        service_obj = Service("/Users/OEM/PycharmProjects/chromedriver.exe")
+        service_obj = Service("/Users/pkvas/PycharmProjects/chromedriver.exe")
         driver = webdriver.Chrome(service=service_obj)
 
     elif browser_name == "firefox":
-        service_obj = Service("/Users/OEM/PycharmProjects/geckodriver.exe")
+        service_obj = Service("/Users/pkvas/PycharmProjects/geckodriver.exe")
         driver = webdriver.Firefox(service=service_obj)
-
 
     driver.get("https://jupiter.cloud.planittesting.com/#/")
     driver.maximize_window()
