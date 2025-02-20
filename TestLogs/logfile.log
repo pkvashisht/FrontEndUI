@@ -197,3 +197,9 @@
 2024-12-26 13:11:49,534 :INFO :test_case3 :Fluffy Bunny price is: 9.99, Subtotal is: 49.95
 2024-12-26 13:11:49,568 :INFO :test_case3 :Valentine Bear price is: 9.99, Subtotal is: 49.95
 2024-12-26 13:11:49,590 :INFO :test_case3 :Verified that total: 116.9 = sum(sub totals):116.9
+2025-02-19 19:18:57,960 :INFO :test_case1 :Verify error messages
+2025-02-19 19:18:57,996 :INFO :test_case1 :Forename is required
+2025-02-19 19:18:58,020 :INFO :test_case1 :Email is required
+2025-02-19 19:18:58,050 :INFO :test_case1 :Message is required
+2025-02-19 19:18:58,050 :INFO :test_case1 :Populating mandatory fields
+2025-02-19 19:19:08,928 :INFO :test_case1 :Validated error has gone and Feedback submitted successfully!

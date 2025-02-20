@@ -7,7 +7,6 @@ class CartCheckoutPage:
         self.driver = driver
 
     cart = (By.ID,"nav-cart")
-
     frgPrice = (By.CSS_SELECTOR,"tbody tr:nth-child(1) td:nth-child(2)")
     frgSubtotal = (By.CSS_SELECTOR,"tbody tr:nth-child(1) td:nth-child(4)")
 
